@@ -1,4 +1,5 @@
 ##Overview of the Hackathon
+
 Financial institutions need to assess whether customers are likely to meet their repayment obligations. Reliable risk estimates can support account review, credit-limit decisions, and early intervention while avoiding unnecessary restrictions on customers who are likely to repay.
 
 In this competition, you will use anonymised customer credit information, including credit limits, demographic attributes, repayment history, bill amounts, and previous payments, to estimate whether a customer will default on their next payment.
